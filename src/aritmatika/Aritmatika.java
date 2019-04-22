@@ -4,9 +4,12 @@ public class Aritmatika {
     
     private double first ,second;
     
-    public double add (double first , double second)
-    {
-    return first + second;    
+    public double add (double first , double second) {
+        return first + second;    
+    }
+    
+    public double min (double first, double second) {
+        return first-second;
     }
     
     /**
