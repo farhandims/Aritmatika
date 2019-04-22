@@ -12,9 +12,8 @@ public class Aritmatika {
         return first-second;
     }
     
-    public double pangkat (double first)
-    {
-    return first*first;
+    public double pangkat (double first) {
+        return first*first;
     }
     
     public double multiple (double first , double second) {
