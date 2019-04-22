@@ -9,6 +9,9 @@ public class Aritmatika {
     return first + second;    
     }
     
+    public double Divide (double first , double second) {
+        return first + second;    
+    }
     /**
      * @param args the command line arguments
      */
