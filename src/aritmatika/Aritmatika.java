@@ -17,6 +17,10 @@ public class Aritmatika {
     return first*first;
     }
     
+    public double multiple (double first , double second) {
+        return first * second;
+    }
+    
     /**
      * @param args the command line arguments
      */
