@@ -12,6 +12,11 @@ public class Aritmatika {
         return first-second;
     }
     
+    public double pangkat (double first)
+    {
+    return first*first;
+    }
+    
     /**
      * @param args the command line arguments
      */
